@@ -1,0 +1,5 @@
+git checkout dev-yash1
+Remove-Item -Recurse -Force .github
+git add .
+git commit -m "Remove GitHub Actions workflow"
+git push origin dev-yash1
