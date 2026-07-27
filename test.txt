@@ -2,5 +2,12 @@ hello yash
 
 learning git branching 
 
+<<<<<<< HEAD
 hello
 i am 
+=======
+i am yash 
+>>>>>>> 287d0baed0b8d1afe43b7f9850eeeb85ba0593c2
+
+
+hello miss
